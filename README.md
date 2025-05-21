@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Marc1511104/Sintesis_Project">
+  <a href="[https://github.com/Marc1511104/Sintesis_Project](https://github.com/Marc151104/Sintesis_Project)">
     <img src="https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social" alt="GitHub stars" />
   </a>
 </p>
