@@ -9,14 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tu_usuario/tu_repositorio/stargazers">
+  <a href="https://github.com/Marc1511104/Sintesis_Project">
     <img src="https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/tu_usuario/tu_repositorio/issues">
-    <img src="https://img.shields.io/github/issues/tu_usuario/tu_repositorio" alt="Issues" />
-  </a>
-  <a href="https://github.com/tu_usuario/tu_repositorio/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/tu_usuario/tu_repositorio" alt="License" />
   </a>
 </p>
 
