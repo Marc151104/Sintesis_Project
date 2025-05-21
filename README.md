@@ -8,14 +8,6 @@
   <strong>Optimización y gestión eficiente para plataformas logísticas modernas.</strong>
 </p>
 
-<p align="center">
-  <a href="[https://github.com/Marc1511104/Sintesis_Project](https://github.com/Marc151104/Sintesis_Project)">
-    <img src="https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social" alt="GitHub stars" />
-  </a>
-</p>
-
----
-
 ## 📋 Índice
 
 - [Descripción](#-descripción)
@@ -30,9 +22,8 @@
 ---
 
 ## 📝 Descripción
+El Proyecto es
 
-Proyecto de síntesis que desarrolla una plataforma logística integral, orientada a optimizar rutas, gestionar flotas y mejorar la eficiencia en la entrega de pedidos.  
-Ideal para empresas que buscan transformar su cadena de suministro con tecnología avanzada y herramientas intuitivas.
 
 ---
 
@@ -77,19 +68,9 @@ Ideal para empresas que buscan transformar su cadena de suministro con tecnolog�
 ---
 
 ## 💻 Uso
-
+-
 - Al iniciar la aplicación, carga los datos de rutas y vehículos.
 - Usa los botones para calcular rutas, asignar vehículos y visualizar costos.
 - Modifica parámetros para ajustar la optimización según tus necesidades.
 
 ---
-
-## 🤝 Contribuciones
-
-¿Quieres mejorar esta plataforma? ¡Genial!  
-Sigue estos pasos para contribuir:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva para tu función o arreglo:
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
