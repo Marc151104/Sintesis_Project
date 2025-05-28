@@ -22,8 +22,11 @@
 ---
 
 ## 📝 Descripción
-El Proyecto es
+Desde la empresa IA DELIVERY SL , con sede en Mataró ( Barcelona ) y especialista en la manufacturación de productos alimenticios perecederos a corto plazo, se ponen en contacto con nosotros para que les proporcionamos una herramienta que les permita determinar y calcular las rutas más óptimas de distribución de sus productos desde sus instalaciones centrales.
 
+El reparto se hace a nivel peninsular, incluyendo Andorra, España y Portugal.
+
+Esta necesidad surge tras un estudio detallado de sus costes y a la conclusión que una parte importante de sus gastos radican en la externalización de este proceso a terceras empresas distribuidoras. Se plantean hacer la inversión en la mínima flota de vehículos posibles con titularidad propia y gestión interna. 
 
 ---
 
