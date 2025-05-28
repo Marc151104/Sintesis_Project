@@ -10,7 +10,7 @@
 
 ## 📋 Índice
 
-- [Descripción](#-descripción)
+- [Introducción](#-introducción)
 - [Características](#-características)
 - [Tecnologías](#-tecnologías)
 - [Instalación](#-instalación)
@@ -18,7 +18,8 @@
 
 ---
 
-## 📝 Descripción
+## 📝 Introducción (simulacion de que somos una empresa)
+
 Desde la empresa IA DELIVERY SL , con sede en Mataró ( Barcelona ) y especialista en la manufacturación de productos alimenticios perecederos a corto plazo, se ponen en contacto con nosotros para que les proporcionamos una herramienta que les permita determinar y calcular las rutas más óptimas de distribución de sus productos desde sus instalaciones centrales.
 
 El reparto se hace a nivel peninsular, incluyendo Andorra, España y Portugal.
