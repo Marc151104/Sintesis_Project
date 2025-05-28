@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ruta/a/tu/logo.png" alt="Logo" width="150" />
+  <img src="C:\Users\marcg\Pictures\Screenshots/Captura.png" alt="Logo" width="150" />
 </p>
 
 <h1 align="center">Síntesis de Plataforma Logística 🚚📦</h1>
