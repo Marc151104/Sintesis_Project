@@ -15,9 +15,6 @@
 - [Tecnologías](#-tecnologías)
 - [Instalación](#-instalación)
 - [Uso](#-uso)
-- [Contribuciones](#-contribuciones)
-- [Licencia](#-licencia)
-- [Contacto](#-contacto)
 
 ---
 
